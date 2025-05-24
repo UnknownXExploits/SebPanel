@@ -1,1 +1,1 @@
-# SebPanel
+A acript hub for roblox, just pull up your roblox executor and paste this script: loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownXExploits/seb-panel/main/seb_panel.lua"))() click execyte/run wait for it to load BOOM! its there just click the seb panel button and the panel pops up.
