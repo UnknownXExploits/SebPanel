@@ -1,1 +1,11 @@
-A script hub for roblox, just pull up your roblox executor and paste this script: loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownXExploits/SebPanel/main/seb_panel.lua"))() click execute/run wait for it to load BOOM! its there just click the seb panel button and the panel pops up.
+# Roblox Exploit Panel
+
+Welcome to my Roblox exploit panel! To use this script hub, simply open your Roblox executor and paste the following script:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownXExploits/SebPanel/main/seb_panel.lua"))()
+```
+
+Click "Execute" in your executor to launch the panel.
+
+Enjoy!
